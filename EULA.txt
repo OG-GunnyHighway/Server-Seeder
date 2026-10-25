@@ -1,0 +1,384 @@
+SERVER SEEDER
+END USER LICENSE AGREEMENT (EULA)
+
+Effective Date: October 24, 2026
+Developer / Publisher: GH-Experiments
+
+IMPORTANT: PLEASE READ THIS AGREEMENT BEFORE
+INSTALLING OR USING SERVER SEEDER.
+
+This End User License Agreement ("Agreement") is a
+legal agreement between you ("User") and the
+software rights holder distributing Server Seeder
+under the name GH-Experiments ("Licensor"),
+concerning Server Seeder, including its executable
+files, proprietary code, original graphics,
+documentation, updates, and associated materials
+(collectively, the "Software").
+
+By selecting "I Accept" during installation, you
+agree to be bound by this Agreement. If you do
+not agree, do not install or use the Software.
+
+1. LICENSE GRANT
+
+Subject to compliance with this Agreement, the
+Licensor grants you a limited, non-exclusive,
+non-transferable, revocable, royalty-free license
+to install and use Server Seeder for personal and
+ordinary gaming-community purposes.
+
+Server Seeder is provided free of charge. This
+license does not transfer ownership of the
+Software or any intellectual-property rights
+to you.
+
+You may install and operate the Software on
+computers you own or control, subject to applicable
+law and the terms of any third-party games or
+services used with it.
+
+2. RESTRICTIONS ON USE
+
+Except with the Licensor's prior written
+authorization or where expressly permitted by
+applicable law, you may not:
+
+A. Reverse Engineering
+
+Reverse-engineer, decompile, disassemble, decode,
+decrypt, or otherwise attempt to derive the
+proprietary source code, internal algorithms,
+or protected implementation of Server Seeder.
+
+B. Modification
+
+Alter, modify, adapt, patch, translate, or create
+derivative works based on the proprietary Software
+or its components.
+
+Normal changes to your own application settings,
+scheduled sessions, profiles, and other
+user-configurable information are permitted.
+
+C. Redistribution
+
+Copy for distribution, redistribute, publish,
+upload, transfer, sell, rent, lease, sublicense,
+or otherwise make the Software or its installation
+files available to third parties.
+
+Users may share links to the Licensor's authorized
+download location.
+
+D. Third-Party Software Integration
+
+Extract, embed, incorporate, bundle, repackage,
+or integrate Server Seeder's proprietary code,
+executables, or other protected components into
+another application, service, software package,
+or automated system without prior written
+authorization.
+
+This restriction does not prohibit the Software's
+intended operation alongside supported games,
+Windows components, or other ordinary user
+applications.
+
+E. Commercial Exploitation
+
+Sell the Software, charge others for access to it,
+commercially redistribute it, or offer its
+proprietary functionality as part of another
+product or paid service without authorization.
+
+This does not prohibit ordinary lawful gaming
+activities, gaming-community participation,
+streaming, or monetization of unrelated
+gameplay content.
+
+F. Rebranding and Misrepresentation
+
+Remove or alter proprietary copyright notices,
+misrepresent the Software's origin, claim
+authorship or ownership of the Software, or
+distribute it under another name or branding.
+
+G. Circumvention
+
+Bypass, disable, defeat, or tamper with program
+protections or operational safeguards for the
+purpose of facilitating an otherwise prohibited
+use.
+
+H. Unauthorized Conduct
+
+Use the Software to violate applicable law,
+gain unauthorized access to systems, interfere
+with third-party services, or deliberately
+disrupt game servers or other users.
+
+Nothing in this section restricts activities
+that applicable law expressly permits
+notwithstanding contractual restrictions.
+
+3. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+All rights, title, and interest in the
+proprietary portions of Server Seeder remain
+with the Licensor or their respective rights
+holders.
+
+These rights include, where legally protectable,
+the Software's original source code, executable
+implementation, original artwork, original
+graphical interfaces, documentation, names,
+and branding.
+
+No ownership rights or rights to reproduce
+proprietary materials are granted beyond the
+limited license expressly stated in this
+Agreement.
+
+The Software may contain third-party components
+governed by their own licenses. Those licenses
+control the applicable third-party components.
+
+4. THIRD-PARTY COMPONENTS
+
+Server Seeder incorporates or uses third-party
+software, including Python and other supporting
+libraries.
+
+The applicable third-party copyright notices and
+license terms are provided in the accompanying
+THIRD_PARTY_NOTICES.txt file.
+
+Nothing in this Agreement limits, overrides, or
+removes rights expressly granted to you under
+applicable third-party open-source or other
+software licenses.
+
+Restrictions in this Agreement apply only to
+the extent the Licensor has the legal authority
+to impose them.
+
+5. GAME AND SERVICE COMPATIBILITY
+
+Server Seeder is an independently developed
+utility intended to automate certain
+user-authorized game-launching and server-seeding
+activities.
+
+The Software is not affiliated with, sponsored
+by, approved by, or endorsed by Offworld
+Industries or the developers and publishers
+of Squad.
+
+All third-party game names and trademarks remain
+the property of their respective owners.
+
+The User is responsible for complying with
+applicable game licenses, community-server rules,
+platform agreements, and anti-cheat policies.
+
+The Licensor does not guarantee that use of
+Server Seeder will be permitted by every game
+publisher, server operator, or third-party
+service.
+
+6. AUTOMATED OPERATIONS AND USER RESPONSIBILITY
+
+Server Seeder may perform operations including
+launching games, changing game configuration
+settings, joining multiplayer servers,
+scheduling unattended activity, monitoring
+server populations, and shutting down game
+processes.
+
+Although the Software includes safeguards
+intended to preserve and restore user settings,
+these mechanisms cannot be guaranteed to work
+under every circumstance.
+
+You acknowledge that automated operations may
+be affected by software updates, system
+failures, network interruptions, game changes,
+or third-party service availability.
+
+You remain responsible for your computer,
+game account, configuration files, and
+scheduled operations.
+
+The Licensor is not responsible for enforcement
+actions taken independently by game publishers,
+anti-cheat providers, platform operators,
+or server administrators.
+
+7. INTERNET CONNECTIVITY AND LOCAL DATA
+
+Certain Software functions require internet
+connectivity to retrieve game-server information
+from supported third-party services.
+
+Those requests may disclose ordinary network
+information, such as your public IP address,
+to the services contacted.
+
+The Software may store application settings,
+operational records, and diagnostic information
+locally on your computer.
+
+The specific network connections, diagnostic
+features, data handling practices, and any
+optional reporting capabilities of a particular
+release are described in its accompanying
+documentation.
+
+Third-party services may operate under separate
+privacy policies and terms.
+
+8. UPDATES AND CONTINUED AVAILABILITY
+
+This Agreement applies to Server Seeder and
+subsequent updates released under these terms,
+unless the Licensor provides a revised agreement.
+
+The Licensor may release updates, corrections,
+or revised versions of the Software without
+requiring a new license agreement for each
+release.
+
+The Licensor is not obligated to provide
+maintenance, support, upgrades, or continued
+compatibility with any particular game, server,
+operating system, or external service.
+
+The Licensor may discontinue public distribution
+of Server Seeder at any time.
+
+Material changes to this Agreement will be
+communicated as required by applicable law,
+and any required user acceptance will be obtained.
+
+9. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+SERVER SEEDER IS PROVIDED "AS IS" AND "AS
+AVAILABLE," WITHOUT WARRANTIES OF ANY KIND,
+EXPRESS OR IMPLIED.
+
+This includes, without limitation, implied
+warranties of merchantability, fitness for a
+particular purpose, non-infringement, reliability,
+availability, and error-free operation.
+
+The Licensor does not guarantee uninterrupted
+operation, successful server connections,
+preservation of every configuration setting,
+or compatibility with future software and
+game updates.
+
+Nothing in this Agreement excludes warranties
+or rights that cannot lawfully be excluded.
+
+10. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable
+law, the Licensor shall not be liable for
+indirect, incidental, special, consequential,
+or punitive damages resulting from the
+installation, use, inability to use, or
+malfunction of the Software.
+
+This includes, where lawfully excludable,
+lost data, lost profits, interrupted gaming
+sessions, account restrictions, unavailable
+services, or changes to third-party game
+functionality.
+
+To the maximum extent permitted by applicable
+law, the Licensor's aggregate liability arising
+from the Software shall not exceed the greater
+of fifty U.S. dollars (US $50) or the amount
+you paid the Licensor for the Software during
+the preceding twelve months.
+
+Nothing in this Agreement excludes liability
+for fraud, intentional misconduct, or other
+liability that cannot lawfully be excluded
+or limited.
+
+11. TERMINATION
+
+This license remains effective until terminated.
+
+You may terminate it at any time by uninstalling
+Server Seeder and discontinuing its use.
+
+Your rights under this Agreement may terminate
+upon a material breach of its terms, subject
+to applicable law.
+
+Upon termination, you must cease use of the
+proprietary Software and remove unauthorized
+copies under your control.
+
+Termination does not require the automatic
+deletion of your personal game configuration
+files or unrelated user data.
+
+Provisions concerning ownership, applicable
+restrictions, warranty disclaimers, and
+limitations of liability survive termination
+to the extent legally applicable.
+
+12. GOVERNING LAW
+
+Subject to any mandatory consumer-protection
+laws applicable to the User, this Agreement
+shall be governed by the laws of the State of
+Georgia, United States of America, without
+regard to conflicts-of-law principles.
+
+Any disputes shall be addressed in a court of
+competent jurisdiction, subject to applicable
+jurisdiction and venue requirements.
+
+13. SEVERABILITY
+
+If any provision of this Agreement is determined
+to be invalid or unenforceable, the remaining
+provisions shall remain effective to the extent
+permitted by law.
+
+Failure by the Licensor to enforce any provision
+on one occasion shall not constitute a permanent
+waiver of that provision.
+
+14. ENTIRE AGREEMENT
+
+This Agreement constitutes the agreement between
+the User and Licensor governing use of the
+proprietary Software, except for separately
+applicable third-party software licenses and
+mandatory legal rights.
+
+Any modification or exception to the restrictions
+of this Agreement must be authorized by the
+Licensor in writing.
+
+15. CONTACT INFORMATION
+
+For questions concerning licensing, permissions,
+or this Agreement, use the official contact or
+support information published by GH-Experiments.
+
+Copyright (C) 2026 GH-Experiments.
+All rights reserved in the original proprietary
+portions of Server Seeder.
+
+Server Seeder is provided free of charge under
+this proprietary Agreement. It is not licensed
+as open-source software. Third-party components
+retain their separate applicable licenses.
